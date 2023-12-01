@@ -2,7 +2,7 @@
 title: "2023-01"
 author: "bensmith"
 date: "2023-12-01"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
